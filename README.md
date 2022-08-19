@@ -2,7 +2,7 @@
 MERN Stack Application
 
 # Description 
-Examslots can be assigned through online interface React and maintained & store via MONGODB.
+Examslots can be assigned through online interface REACT and maintained & store via MONGODB.
 
 # About Application
 FRONTEND	:	REACT<br/>
